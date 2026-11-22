@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/churn_predictor/__init__.py
+src/churn_predictor/data.py
+src/churn_predictor/features.py
+src/churn_predictor/model.py
+src/churn_predictor/train.py
+src/churn_radar.egg-info/PKG-INFO
+src/churn_radar.egg-info/SOURCES.txt
+src/churn_radar.egg-info/dependency_links.txt
+src/churn_radar.egg-info/top_level.txt
+tests/test_data.py
+tests/test_model.py
